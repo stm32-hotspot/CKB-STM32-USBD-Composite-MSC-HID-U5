@@ -1,0 +1,1 @@
+# CKB-STM32-USBD-Composite-MSC-HID-U5
